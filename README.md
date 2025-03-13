@@ -7,6 +7,6 @@
 * NTM space
 * Back ported several features to 1.7.10
 
-# $$\text{\color{orange}{Credits}}$$
+# $$\text{\color{pink}{Credits}}$$
 
 * Thanks to GTNH for all the forks of the mods
