@@ -3,4 +3,10 @@
 ---
 
 # $$\text{\color{orange}{Features}}$$
-* Put the list here.
+* A custom QuestLine (coming out soon)
+* NTM space
+* Back ported several features to 1.7.10
+
+# $$\text{\color{pink}{Credits}}$$
+
+* Thanks to GTNH for all the forks of the mods
