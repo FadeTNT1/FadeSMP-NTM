@@ -1,0 +1,13 @@
+#Tips for the loading screen
+#Thanks to 0lafe, boubou19, chochem, interestingusernam3, glowredman, GTNH-Afx237v7, leagris, LewisSaber, Nvidiot, Regian24, richardhendricks, yukieiji and others for tip suggestions
+#
+#Maximal characters for a tip: 77 (more can go out of the screen)
+#The line below, including the "#" are 77 chars
+#Adventurer's backpack? Did you mean integrated crafting grid, bed and fluid
+#
+Don't Get Nuked
+Chunk load ur RMBK With FTB
+microwave ur demon core
+Derek = Derk
+
+
