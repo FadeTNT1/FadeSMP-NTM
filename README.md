@@ -1,5 +1,22 @@
 <p align="center"><img src="/logo512x210.png" alt="Change the link in img src of readme to proper logo | FadeSMP"></p>
 
+
+```mermaid
+graph TD;
+    A(Test)-->D(Pack completion - we are here);
+    B(LWJGL compat)-->D;
+    C(Newer Java compat)-->D;
+    D-->E(Config any time);
+    D-->G(Minor improvement and fixes)
+    E-->F(Greater improvement needs configs)
+    X(Cleanroom Gradle)-->D
+    D-->X
+    D-->Y(Better Mixin Integration)
+    Y-->D
+```
+
+
+
 ---
 
 # $$\text{\color{orange}{Features}}$$
